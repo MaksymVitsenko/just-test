@@ -1,1 +1,2 @@
 Some textnew text
+new line
